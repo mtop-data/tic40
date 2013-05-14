@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/non_plant_eukaryotes/aa/Saccharomyces_cerevisae</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Tic40_gi|30387547|gb|AAP31939.1| At5g16620 [Arabidopsis thaliana]</BlastOutput_query-def>
+  <BlastOutput_query-len>447</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Tic40_gi|30387547|gb|AAP31939.1| At5g16620 [Arabidopsis thaliana]</Iteration_query-def>
+      <Iteration_query-len>447</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|5053</Hit_id>
+          <Hit_def>@Saccharomyces_cerevisae@ gi|6324601|ref|NP_014670.1| Sti1p [Saccharomyces cerevisiae S288c]</Hit_def>
+          <Hit_accession>5053</Hit_accession>
+          <Hit_len>589</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>38.891</Hsp_bit-score>
+              <Hsp_score>89</Hsp_score>
+              <Hsp_evalue>0.00122614</Hsp_evalue>
+              <Hsp_query-from>385</Hsp_query-from>
+              <Hsp_query-to>444</Hsp_query-to>
+              <Hsp_hit-from>526</Hsp_hit-from>
+              <Hsp_hit-to>582</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>20</Hsp_identity>
+              <Hsp_positive>33</Hsp_positive>
+              <Hsp_gaps>3</Hsp_gaps>
+              <Hsp_align-len>60</Hsp_align-len>
+              <Hsp_qseq>TPEEVISKIMENPDVAMAFQNPRVQAALMECSENPMNIMKYQNDKEVMDVFNKISQLFPG</Hsp_qseq>
+              <Hsp_hseq>TPEETYQRAMKDPEVAAIMQDPVMQSILQQAQQNPAALQEHMKNPE---VFKKIQTLIAA</Hsp_hseq>
+              <Hsp_midline>TPEE   + M++P+VA   Q+P +Q+ L +  +NP  + ++  + E   VF KI  L   </Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1453</Hit_id>
+          <Hit_def>@Saccharomyces_cerevisae@ gi|6320798|ref|NP_010877.1| Rad23p [Saccharomyces cerevisiae S288c]</Hit_def>
+          <Hit_accession>1453</Hit_accession>
+          <Hit_len>398</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>34.6538</Hsp_bit-score>
+              <Hsp_score>78</Hsp_score>
+              <Hsp_evalue>0.0282899</Hsp_evalue>
+              <Hsp_query-from>261</Hsp_query-from>
+              <Hsp_query-to>418</Hsp_query-to>
+              <Hsp_hit-from>217</Hsp_hit-from>
+              <Hsp_hit-to>384</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>49</Hsp_identity>
+              <Hsp_positive>69</Hsp_positive>
+              <Hsp_gaps>30</Hsp_gaps>
+              <Hsp_align-len>178</Hsp_align-len>
+              <Hsp_qseq>PKETRLFEDVLQNG--AGPANGATASEVFQSLGGGKGGPGLSV--------------EALEKMMEDPTVQKMVYPYLPEE-MRNPETFKWMLKNPQYRQQLQDMLNNMSGSGEW-DKRMTDTLKNFDLNSPEVKQQFNQIGLTPEE--VISKIMENPDVAMAFQNPRVQAALMECSEN</Hsp_qseq>
+              <Hsp_hseq>PAEDDLFAQAAQGGNASSGALGTTGGATDAAQGGPPGSIGLTVEDLLSLRQVVSGNPEALAPLLENISAR---YPQLREHIMANPEVFVSMLLEA-VGDNMQDVMEGADDMVEGEDIEVTGEAAAAGLGQGEGEGSF-QVDYTPEDDQAISRLCE-----LGFERDLVIQVYFACDKN</Hsp_hseq>
+              <Hsp_midline>P E  LF    Q G  +  A G T      + GG  G  GL+V              EAL  ++E+ + +   YP L E  M NPE F  ML        +QD++       E  D  +T       L   E +  F Q+  TPE+   IS++ E     + F+   V      C +N</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|2186</Hit_id>
+          <Hit_def>@Saccharomyces_cerevisae@ gi|6321569|ref|NP_011646.1| hypothetical protein YGR130C [Saccharomyces cerevisiae S288c]</Hit_def>
+          <Hit_accession>2186</Hit_accession>
+          <Hit_len>816</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.8758</Hsp_bit-score>
+              <Hsp_score>63</Hsp_score>
+              <Hsp_evalue>1.91717</Hsp_evalue>
+              <Hsp_query-from>324</Hsp_query-from>
+              <Hsp_query-to>433</Hsp_query-to>
+              <Hsp_hit-from>438</Hsp_hit-from>
+              <Hsp_hit-to>528</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>26</Hsp_identity>
+              <Hsp_positive>53</Hsp_positive>
+              <Hsp_gaps>19</Hsp_gaps>
+              <Hsp_align-len>110</Hsp_align-len>
+              <Hsp_qseq>EMRNPETFKWMLKNPQYRQQLQDMLNNMSGSGEWDKRMTDTLKNFDLNSPEVKQQFNQIGLTPEEVISKIMENPDVAMAFQNPRVQAALMECSENPMNIMKYQNDKEVMD</Hsp_qseq>
+              <Hsp_hseq>DLRAKEKDKYDAKNKEYKEKLQDLQNQID-------EIENSMKAMREETSE------KIEVSKNRLVKKII---DVNAEHNNKKL--MILKDTEN-MKNQKLQEKNEVLD</Hsp_hseq>
+              <Hsp_midline>++R  E  K+  KN +Y+++LQD+ N +         + +++K     + E      +I ++   ++ KI+   DV     N ++   +++ +EN M   K Q   EV+D</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1588</Hit_id>
+          <Hit_def>@Saccharomyces_cerevisae@ gi|6320935|ref|NP_011014.1| Trp2p [Saccharomyces cerevisiae S288c]</Hit_def>
+          <Hit_accession>1588</Hit_accession>
+          <Hit_len>507</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.4906</Hsp_bit-score>
+              <Hsp_score>62</Hsp_score>
+              <Hsp_evalue>2.26255</Hsp_evalue>
+              <Hsp_query-from>216</Hsp_query-from>
+              <Hsp_query-to>248</Hsp_query-to>
+              <Hsp_hit-from>58</Hsp_hit-from>
+              <Hsp_hit-to>90</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>19</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>33</Hsp_align-len>
+              <Hsp_qseq>KPSVVLEASKEKKEEKNYAFEDISPEETTKESP</Hsp_qseq>
+              <Hsp_hseq>KESFLLESAKTNNELDRYSFIGISPRKTIKTGP</Hsp_hseq>
+              <Hsp_midline>K S +LE++K   E   Y+F  ISP +T K  P</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4052</Hit_id>
+          <Hit_def>@Saccharomyces_cerevisae@ gi|6323548|ref|NP_013619.1| Rpm2p [Saccharomyces cerevisiae S288c]</Hit_def>
+          <Hit_accession>4052</Hit_accession>
+          <Hit_len>1202</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>28.1054</Hsp_bit-score>
+              <Hsp_score>61</Hsp_score>
+              <Hsp_evalue>3.62552</Hsp_evalue>
+              <Hsp_query-from>345</Hsp_query-from>
+              <Hsp_query-to>374</Hsp_query-to>
+              <Hsp_hit-from>744</Hsp_hit-from>
+              <Hsp_hit-to>773</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>18</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>30</Hsp_align-len>
+              <Hsp_qseq>QDMLNNMSGSGEWDKRMTDTLKNFDLNSPE</Hsp_qseq>
+              <Hsp_hseq>QDLLNFFNHPGDWDKSYPLSLGSFIRNSPR</Hsp_hseq>
+              <Hsp_midline>QD+LN  +  G+WDK    +L +F  NSP </Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>5882</Statistics_db-num>
+          <Statistics_db-len>2914779</Statistics_db-len>
+          <Statistics_hsp-len>93</Statistics_hsp-len>
+          <Statistics_eff-space>838184562</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

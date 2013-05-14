@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/cyanobacteria/selection/Arthrospira_sp_PCC_8005</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Tic40_gi|30387547|gb|AAP31939.1| At5g16620 [Arabidopsis thaliana]</BlastOutput_query-def>
+  <BlastOutput_query-len>447</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Tic40_gi|30387547|gb|AAP31939.1| At5g16620 [Arabidopsis thaliana]</Iteration_query-def>
+      <Iteration_query-len>447</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4770</Hit_id>
+          <Hit_def>@Arthrospira_sp_PCC_8005@ 648390025 APCC8_010100024828 hypothetical protein [Arthrospira sp. PCC 8005]</Hit_def>
+          <Hit_accession>4770</Hit_accession>
+          <Hit_len>68</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.7202</Hsp_bit-score>
+              <Hsp_score>60</Hsp_score>
+              <Hsp_evalue>0.443425</Hsp_evalue>
+              <Hsp_query-from>337</Hsp_query-from>
+              <Hsp_query-to>387</Hsp_query-to>
+              <Hsp_hit-from>20</Hsp_hit-from>
+              <Hsp_hit-to>63</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>15</Hsp_identity>
+              <Hsp_positive>26</Hsp_positive>
+              <Hsp_gaps>7</Hsp_gaps>
+              <Hsp_align-len>51</Hsp_align-len>
+              <Hsp_qseq>NPQYRQQLQDMLNNMSGSGEWDKRMTDTLKNFDLNSPEVKQQFNQIGLTPE</Hsp_qseq>
+              <Hsp_hseq>NPEIQKQLSHIVQLFLRRNLYDKRLTEVMA-------EISDKAQQRGLTPE</Hsp_hseq>
+              <Hsp_midline>NP+ ++QL  ++        +DKR+T+ +        E+  +  Q GLTPE</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|3474</Hit_id>
+          <Hit_def>@Arthrospira_sp_PCC_8005@ 648388720 APCC8_010100018060 hypothetical protein [Arthrospira sp. PCC 8005]</Hit_def>
+          <Hit_accession>3474</Hit_accession>
+          <Hit_len>1202</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>27.7202</Hsp_bit-score>
+              <Hsp_score>60</Hsp_score>
+              <Hsp_evalue>2.41892</Hsp_evalue>
+              <Hsp_query-from>321</Hsp_query-from>
+              <Hsp_query-to>351</Hsp_query-to>
+              <Hsp_hit-from>1066</Hsp_hit-from>
+              <Hsp_hit-to>1101</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>19</Hsp_positive>
+              <Hsp_gaps>5</Hsp_gaps>
+              <Hsp_align-len>36</Hsp_align-len>
+              <Hsp_qseq>LPEEMRNPETFKWMLKNPQYR-----QQLQDMLNNM</Hsp_qseq>
+              <Hsp_hseq>LAELELNPLIIKWMREHPNHEQTLRFQQLGDLLNTL</Hsp_hseq>
+              <Hsp_midline>L E   NP   KWM ++P +      QQL D+LN +</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|964</Hit_id>
+          <Hit_def>@Arthrospira_sp_PCC_8005@ 648386186 APCC8_010100005020 hypothetical protein [Arthrospira sp. PCC 8005]</Hit_def>
+          <Hit_accession>964</Hit_accession>
+          <Hit_len>103</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>26.1794</Hsp_bit-score>
+              <Hsp_score>56</Hsp_score>
+              <Hsp_evalue>2.49516</Hsp_evalue>
+              <Hsp_query-from>338</Hsp_query-from>
+              <Hsp_query-to>373</Hsp_query-to>
+              <Hsp_hit-from>56</Hsp_hit-from>
+              <Hsp_hit-to>95</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>14</Hsp_identity>
+              <Hsp_positive>21</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>40</Hsp_align-len>
+              <Hsp_qseq>PQYRQQLQDMLNNMSGSGEWD----KRMTDTLKNFDLNSP</Hsp_qseq>
+              <Hsp_hseq>PKNRQELYHLLREIEAQGGWPYIPRKSLRFILKNLDLSTP</Hsp_hseq>
+              <Hsp_midline>P+ RQ+L  +L  +   G W     K +   LKN DL++P</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>4</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|5310</Hit_id>
+          <Hit_def>@Arthrospira_sp_PCC_8005@ 648390565 APCC8_010100027598 hypothetical protein [Arthrospira sp. PCC 8005]</Hit_def>
+          <Hit_accession>5310</Hit_accession>
+          <Hit_len>55</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>23.483</Hsp_bit-score>
+              <Hsp_score>49</Hsp_score>
+              <Hsp_evalue>8.66778</Hsp_evalue>
+              <Hsp_query-from>369</Hsp_query-from>
+              <Hsp_query-to>387</Hsp_query-to>
+              <Hsp_hit-from>31</Hsp_hit-from>
+              <Hsp_hit-to>49</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>9</Hsp_identity>
+              <Hsp_positive>15</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>19</Hsp_align-len>
+              <Hsp_qseq>DLNSPEVKQQFNQIGLTPE</Hsp_qseq>
+              <Hsp_hseq>DLDADKVQEAISQAGLTPE</Hsp_hseq>
+              <Hsp_midline>DL++ +V++  +Q GLTPE</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>5</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|2382</Hit_id>
+          <Hit_def>@Arthrospira_sp_PCC_8005@ 648387613 APCC8_010100012380 hypothetical protein [Arthrospira sp. PCC 8005]</Hit_def>
+          <Hit_accession>2382</Hit_accession>
+          <Hit_len>232</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>25.409</Hsp_bit-score>
+              <Hsp_score>54</Hsp_score>
+              <Hsp_evalue>9.82813</Hsp_evalue>
+              <Hsp_query-from>52</Hsp_query-from>
+              <Hsp_query-to>160</Hsp_query-to>
+              <Hsp_hit-from>67</Hsp_hit-from>
+              <Hsp_hit-to>164</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>24</Hsp_identity>
+              <Hsp_positive>39</Hsp_positive>
+              <Hsp_gaps>11</Hsp_gaps>
+              <Hsp_align-len>109</Hsp_align-len>
+              <Hsp_qseq>SQSPSSRPENTGEIVVVKQRSKAFASIFSSSRDQQTTSVASPSVPVPPPSSSTIGSPLFWIGVGVGLSALFSYVTSNLKKYAMQTAMKTMMNQMNTQNSQFNNSGFPSG</Hsp_qseq>
+              <Hsp_hseq>SESLVDLPRKQGYYTWQEGRRPAMVMEFLPSRDESAKQPSSPQQPTAWEVYEQI--------LGIPFYVIFDYTTNSLQLFKL---LGDRYQKQELNNNQFWFPGLDLG</Hsp_hseq>
+              <Hsp_midline>S+S    P   G     + R  A    F  SRD+     +SP  P        I        +G+    +F Y T++L+ + +   +     +    N+QF   G   G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>5675</Statistics_db-num>
+          <Statistics_db-len>1638783</Statistics_db-len>
+          <Statistics_hsp-len>88</Statistics_hsp-len>
+          <Statistics_eff-space>409038497</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

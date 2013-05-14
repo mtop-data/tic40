@@ -1,0 +1,23 @@
+>gnl|BL_ORD_ID|2452 @Carica_papaya@_evm.model.supercontig_116.57|PACid:16406315
+M-----------------------------------------------------------
+------------------------------------------------------------
+----------------------------------ENLNGVLVS-SSPKLLLGYGCNHKIP
+KTLNY-------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------SPLRLP--FALRSSRVCRRNSTISVSALSHS----RYSRPAVTSH--TGK
+SGGDRFG-------------SI-SSSTDQQTSSVGV-NPNLTVPPPASSV------GSP-
+-------------LFWIGVGVGLSAVFSWAASSLKKYAMQQAMKTMMSQMNTQ-NNQFSN
+VPFPPGSPFPYPKPPTTGPTTSP----ASQPTVTVDVAATKVEAAPTTDAK---------
+-------EESETETKQKKYAFVDVSPEETTQKS----------------------PFASF
+EDVPEISSSK--NSQFPKEVSQNGAASKQAVDSSEGSQSF-----RPGL-----------
+-----------TVDALEKMMEDPTVQKMVYPY------------LPEEMRNPTTFKWML-
+-------------------------------QNPQYRQQLQDMLNNMSGSGEWNNNMMET
+LKGFDLNSPEVKQQFDQIGLTPEEV-ISKIMAN--------------------PEVAMAF
+QNPKI-------------------------------------------------------
+------------------------------------------------------------
+-------QAAIMD-----------------------------------------------
+-------------------------------------------------CSQNPL-----
+---------------------------------------SIAKYQNDKEVMD--------
+------------------------------------------------------------
+-------------------VFNKISELFPGVTGYP---

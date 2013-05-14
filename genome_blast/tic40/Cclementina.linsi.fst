@@ -1,0 +1,25 @@
+>gnl|BL_ORD_ID|35771 @Citrus_clementina@_0.9_010946m|PACid:19286967
+M--------------------------------ENLNMALVSSTSPKLVLNY--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--TNFKHPTRGITG-PRRSSSLALP-FKLSTSRISASVRAGPYQNGQ---V-----GAGG
+FASLTSSSGQQTSSVGVNPNLPMPPPSSN-VGSP--------------------------
+---------------------------LFWVGVGVGLSALFSFVASRLKQYAMQQALKGM
+MNQMN------------TQNKPFGNAAFPQGSPFPFPNPPASGP-TTPYPAASQPR-FTM
+DIPATKVEAASAT--------------D----------------------VEGKKEVKGE
+T------------EVKEEPKKYAFVDVS----------------PEETLQKSPFDNFE--
+---DVKETSSSKDAQPPKDS-Q-------NGA--AFNYNAGSPL----------------
+--------------------------GGQSAKKEGRFLTVD----------------TLE
+KLMEDPQVQKMVYPSLPEEMRNPASFKLMLQNPEYRKQLQ--------------------
+-------EMLDGMCES---------------------GEFDGRVLDSLKNFDL-------
+-----NSAEVK-------------------------------------------------
+QQFEQIG------LTPEEVITKMMANPEIALGFQSPRV----------QAAIMECSQNPM
+NIIKYQNDKEVMSVITKI----------AELFPGVTGTS

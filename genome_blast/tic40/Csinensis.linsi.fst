@@ -1,0 +1,22 @@
+>gnl|BL_ORD_ID|22996 @Citrus_sinensis@_1.1g014282m|PACid:18115198
+MENL--------------------------------------------------------
+------------------------------------------------------------
+----------------------NMALVSSTSPKLVLNYT-------NFKHPTRGITG-PR
+RSSSLALP-FKLSTSRISA-----------------------------------------
+-----------------------------------------SVRAGPHQNGQV-----GA
+GGFASLTSSGGQQTSSVGVNPNLPMPPPSSN-VGSPLFWVGVGVGLSALFSFVASRLKQY
+AMQQALKGMMNQMNTQNK----------PFGNAAFPQGSPFPFPNPPA-----------S
+GP-TTPYPAAS-QPR-FTMDIPA-------------------------------------
+--------------------------------------------------TKVEAATAT-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------D--------VE-------------------G
+KKEV----------KGETEVKEEPKKYAFVDVSPEETLQKSS--------FDNFEDVKET
+SSSKDAQPPKDS-Q--NGA--AFNYNAGSPFGGQSAKKE-G------------------R
+FLTVDTLEKLMEDPQVQKMVY---------------------------------------
+-------------------------------------------PSLPEEMRN------PA
+SFKLMLQNPEYRKQLQEMLDGMCESGEFDGRVLDSLK-----------------------
+----NFDLNSAEVKQQFEQIGLTPEEVITKMM----------------------------
+---------------------------------------------------ANPEIALGF
+QSPRVQAAIMECSQNPMNIIKYQNDKEVMSVITKIAELFPGVTGTS

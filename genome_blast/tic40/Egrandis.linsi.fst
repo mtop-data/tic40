@@ -1,0 +1,22 @@
+>gnl|BL_ORD_ID|2229 @Eucalyptus_grandis@_A02100.1|PACid:23563950
+MPHHFRSA----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------DQRRREEKAKASTRFGSK--------------
+-----NHVTNHKTSALGSPDGSISS-----------------------------SSSARR
+QLPDRDMSPFAAMAANLQVSPHLYALPSSSHSSRAGSGGGGGRGSVPPPR----------
+---------------NKQL---------------------------LSRTLL-------C
+QRRP---DEAARLRRYRTAPQA-------------------------------------A
+ESECFASISSSR------SSK----ETTSVGVPP--------------------------
+--------QPPVPPPP---------SSFGSPLFW---------------------IGVGV
+GVSALFSWVANYL--KKYAMQQAF----KAMMGQMNSQNNQFAGSP-FSSASPSPFPMGS
+APRPTPSPM----ATSQPSTVD----ISATKVE------------AVKAE-TAPVADVKD
+---------EIKKEE-----ELKRYAFVDISPEETKEKSPFESFKDVTETTSSEATQFVG
+NAPQNGSASKSVDSSSEASES--TGKGNPVLSVDALEKMMEDPTVQKMVFPHLPEEMRNP
+ETFKWMLQNPQYRQQLEEMLNNMGGSSEWDGRMMDSLKNFDLSSPEVKQQFDQI------
+------------------------------------------------------------
+------------------------------------GLTPEEV-ISKIMANPEVAMAFQN
+PRVQQAIMDCSQNPLSIAKY-------------Q------NDKEVMDVFNKISELFPGVT
+GP-
